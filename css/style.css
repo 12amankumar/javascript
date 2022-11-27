@@ -1,0 +1,84 @@
+#header{
+    color: white;
+ background:#f1c40f
+}
+#menu{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+ 
+
+}
+#menu li{
+display: inline-block;
+}
+#menu li a{
+    padding: 15px 10px;
+    display: block;
+    color: white;
+ }
+ #menu li a:hover{
+   text-decoration: none;
+   background:#6ab04c;
+ }
+    #banner{
+        background: url(https://media.istockphoto.com/id/1201544779/photo/blank-front-real-black-chalkboard-background-texture-in-college-concept-for-back-to-school.jpg?s=612x612&w=0&k=20&c=eIpwTytTL62siQBi10EAQ9FLcKkCa5PLCRvtENevaak=);
+     background-repeat: no-repeat;
+     background-size: cover;
+    height: 300px;
+    }
+.banner-title h3{
+    background-color: rgba(255, 255, 255, 0.8);
+    display: inline-block;
+    padding: 10px;
+    margin: 0px;
+}
+ .banner-title p{
+    background:rgba(240, 147, 43, 0.6)
+}
+.banner-title{
+    margin-top: 60px;
+}
+.sercive-box i.fa{
+ color:#f0932b;
+ font-size: 70px;
+ margin-bottom: 10px;
+}
+.sercive-box{
+    text-align: center;
+    padding: 399px;
+}
+.sercive-box i.fa{
+    color:#f0932b;
+    font-size: 70px;
+}
+img{
+    height: 100px;
+}
+.a{
+    height: 300px;
+    background-image: url("https://media.istockphoto.com/id/919312882/photo/white-light-texture-background.jpg?s=612x612&w=0&k=20&c=1drHpuwESRvgCCOO-DXr1dij7JAEJhHFp1Kj6FTSzL4=");
+}
+#testimonials{
+    background-image: url("https://media.istockphoto.com/id/500798512/photo/blue-and-white-gradient-abstract-background.jpg?s=612x612&w=0&k=20&c=gmnSAJbcQkoHNjVL3okBoSqyo99YSAaxhvj3XLuoWmc=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.section-head{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.footer{
+ background-color:black
+ 
+}
+.b{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+.ph{
+    color: white;
+}
